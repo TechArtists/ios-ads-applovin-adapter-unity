@@ -1,0 +1,121 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "UnityAppLovinAdapterFramework",
+    "printedName": "UnityAppLovinAdapterFramework",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "AppLovinSDK",
+        "printedName": "AppLovinSDK",
+        "declKind": "Import",
+        "moduleName": "UnityAppLovinAdapterFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UnityAds",
+        "printedName": "UnityAds",
+        "declKind": "Import",
+        "moduleName": "UnityAppLovinAdapterFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "AppLovinSDK",
+        "printedName": "AppLovinSDK",
+        "declKind": "Import",
+        "moduleName": "UnityAppLovinAdapterFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AppLovinSDK",
+        "printedName": "AppLovinSDK",
+        "declKind": "Import",
+        "moduleName": "UnityAppLovinAdapterFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UnityAds",
+        "printedName": "UnityAds",
+        "declKind": "Import",
+        "moduleName": "UnityAppLovinAdapterFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "AppLovinSDK",
+        "printedName": "AppLovinSDK",
+        "declKind": "Import",
+        "moduleName": "UnityAppLovinAdapterFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UnityAds",
+        "printedName": "UnityAds",
+        "declKind": "Import",
+        "moduleName": "UnityAppLovinAdapterFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "AppLovinSDK",
+        "printedName": "AppLovinSDK",
+        "declKind": "Import",
+        "moduleName": "UnityAppLovinAdapterFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UnityAds",
+        "printedName": "UnityAds",
+        "declKind": "Import",
+        "moduleName": "UnityAppLovinAdapterFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "AppLovinSDK",
+        "printedName": "AppLovinSDK",
+        "declKind": "Import",
+        "moduleName": "UnityAppLovinAdapterFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UnityAds",
+        "printedName": "UnityAds",
+        "declKind": "Import",
+        "moduleName": "UnityAppLovinAdapterFramework"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/roberttataru\/Downloads\/AppLovin-MAX-SDK-iOS-master\/UnityAds\/UnityAppLovinAdapterFramework\/UnityAppLovinAdapterFramework\/UnityAdsAdapter.swift",
+      "kind": "StringLiteral",
+      "offset": 865,
+      "length": 10,
+      "value": "\"UnityAds\""
+    },
+    {
+      "filePath": "\/Users\/roberttataru\/Downloads\/AppLovin-MAX-SDK-iOS-master\/UnityAds\/UnityAppLovinAdapterFramework\/UnityAppLovinAdapterFramework\/UnityAdsAdapter.swift",
+      "kind": "StringLiteral",
+      "offset": 925,
+      "length": 10,
+      "value": "\"4.11.3.1\""
+    }
+  ]
+}

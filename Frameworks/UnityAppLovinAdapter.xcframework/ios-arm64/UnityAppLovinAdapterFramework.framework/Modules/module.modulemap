@@ -1,0 +1,6 @@
+framework module UnityAppLovinAdapterFramework {
+  umbrella header "UnityAppLovinAdapterFramework.h"
+  export *
+
+  module * { export * }
+}
